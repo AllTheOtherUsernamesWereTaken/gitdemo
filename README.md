@@ -1,2 +1,2 @@
 # gitdemo
-This is a first repository. GodhelpMEIMONFIREEEEEEEE!!!!!!!!
+This is a first repository.
